@@ -19,6 +19,7 @@ require (
 )
 
 require (
+	github.com/moond4rk/hackbrowserdata/types v0.0.0-20230312123456
 	github.com/akavel/rsrc v0.10.2 // indirect
 	github.com/chromedp/cdproto v0.0.0-20241110205750-a72e6703cd9b // indirect
 	github.com/chromedp/chromedp v0.11.2 // indirect
